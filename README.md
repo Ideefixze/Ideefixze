@@ -1,9 +1,21 @@
-### Hi there 👋
+### Stack 🤖
+- C# and Unity
+- Python 
+- C++
+### Intrests 🤔
+- Game Development
+- Computer Graphics
+- Network Programming
+- Software Engineering
+### Education 📖
+- Years of freetime programming
+- Taking part in game jams
+- Currently doing Bachelor's degree in CS at Jagiellonian University in Cracow, Poland
+### Contact me ☎
+- dominik.zimny99@gmail.com
+
 
 <!--
-
-Here are some ideas to get you started:
-asdasdasda
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
