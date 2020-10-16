@@ -2,7 +2,7 @@
 - C# and Unity
 - Python 
 - C++
-### Intrests 🤔
+### Interests 🤔
 - Game Development
 - Computer Graphics
 - Network Programming
