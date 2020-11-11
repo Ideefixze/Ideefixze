@@ -2,6 +2,7 @@
 - C# and Unity
 - Python 
 - C++
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ideefixze&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Interests 🤔
 - Game Development
 - Computer Graphics
