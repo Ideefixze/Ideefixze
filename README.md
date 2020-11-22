@@ -1,7 +1,7 @@
 ### Stack 🤖
 - C# and Unity
 - Python 
-- C++
+- SQL
 ### Interests 🤔
 - Game Development
 - Computer Graphics
