@@ -11,7 +11,7 @@
 - Years of freetime programming
 - Taking part in game jams
 - Currently doing Bachelor's degree in CS at Jagiellonian University in Cracow, Poland
-### Projects 
+### Projects 📽️
 #### C# and Unity
 - ![DTerrain](https://github.com/Ideefixze/DTerrain) - Worms-like destructible terrain
 - ![Custom Networking for Unity](https://github.com/Ideefixze/TutorialUnityMultiplayer) - Command Pattern implementation for multiplayer gaming (+ tutorial)
