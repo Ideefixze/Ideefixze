@@ -27,6 +27,7 @@
 - ![OpenMSG](https://github.com/Ideefixze/openmsg) - basic python chat implementation
 - ![ProfanityBot](https://github.com/Ideefixze/profanitybot) - Discord bot for censoring words
 - ![EconomyBot](https://github.com/Ideefixze/DiscordEconomyBot) - Discord bot for team roleplay games that handles all money related operations
+- ![DemotGenerator](https://github.com/Ideefixze/DemotGenerator) - script that generates abstract humour
 
 ### Contact me ☎
 - dominik.zimny99@gmail.com
