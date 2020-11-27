@@ -1,4 +1,4 @@
-### Stack 🤖
+### Skills 🤖
 - C# and Unity
 - Python 
 - SQL
