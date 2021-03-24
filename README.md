@@ -8,6 +8,7 @@
 - ![Crispy and Unity](https://github.com/Ideefixze/cripsy-and-unity) - postprocessing experiments for retro and pixelated look
 
 #### Python
+- ![moAI](https://github.com/Ideefixze/moAI) - Discord bot that uses ML to predict what average user will write
 - ![Winder](https://github.com/Ideefixze/Winder) - matchmaking web-APP based on solving a test
 - ![KnowWay!](https://github.com/Ideefixze/knowway_server) - simple educational browser with gamification
 - ![WaveFunctionCollapse](https://github.com/Ideefixze/WaveFunctionCollapse) - implementation of WFC algorithm that can be used in procedural generation
